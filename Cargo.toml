@@ -1,0 +1,11 @@
+[package]
+name = "mask"
+description = "Traits and structs useful for masking/filtering"
+version = "0.0.0"
+
+authors = ["Kjetil Kjeka <kjetilkjeka@gmail.com>"]
+
+repository = "https://github.com/kjetilkjeka/mask"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
